@@ -16,7 +16,7 @@ The code follows the methodology of *Cross‑impact of order‑flow imbalance in
 
 ---
 
-## 8  Reference
+## Reference
 > Gomes, J. & Waelbroeck, H. (2023). *Cross‑impact of order‑flow imbalance in equity markets.*  
 > Cont, R. et al. (2014). *Price dynamics in a Markovian limit order market.*
 
